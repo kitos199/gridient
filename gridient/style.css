@@ -2,5 +2,6 @@ div{
     width: 480px;
     height: 480px;
     border:1px solid black;
-    background:linear-gradient(red 30%, white 30% 59%, red 59%)
+    background:linear-gradient(red 30%, white 30% 59%, red 59%);
+    margin: 0 auto;
     }
